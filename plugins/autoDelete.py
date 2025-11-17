@@ -1,4 +1,4 @@
-# +++ Made By Sanjiii [telegram username: @Urr_Sanjiii] +++
+# +++ Made By WhiteBEard [telegram username: @WhiteBeard_Sama] +++
 
 #from bot import Bot
 import asyncio
