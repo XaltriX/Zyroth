@@ -1,4 +1,4 @@
-# +++ Made By Sanjiii [telegram username: @Urr_Sanjiii] +++
+# +++ Made By WhiteBEard [telegram username: @WhiteBeard_Sama] +++
 
 from bot import Bot
 import asyncio
@@ -456,4 +456,4 @@ async def handle_reqFsub(client: Client, message: Message):
         await message.reply(f"<b>! ᴇʀʀᴏʀ ᴏᴄᴄᴜʀᴇᴅ..\n<blockquote>ʀᴇᴀsᴏɴ:</b> {e}</blockquote><b><i>ᴄᴏɴᴛᴀɴᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ: @WhiteBeard_Sama</i></b>", reply_markup=reply_markup)
 
 
-# +++ Made By Sanjiii [telegram username: @Urr_Sanjiii] +++
+# +++ Made By WhiteBEard [telegram username: @WhiteBeard_Sama] +++
