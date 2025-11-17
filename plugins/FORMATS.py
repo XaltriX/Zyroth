@@ -1,4 +1,4 @@
-# +++ Made By Sanjiii [telegram username: @Urr_Sanjiii] +++
+# +++ Made By WhiteBEard [telegram username: @WhiteBeard_Sama] +++
 
 #text formatting....
 
@@ -148,4 +148,4 @@ CLEAR_LINKS_TXT = """<b>What is the use of Clear Links !?</b>
 <b>Cʜᴏᴏsᴇ ᴛʜᴇ Cʜᴀɴɴᴇʟ ID ғᴏʀ Dᴇʟᴇᴛɪɴɢ Rᴇǫᴜᴇsᴛ Lɪɴᴋ:</b>"""
 
 
-# +++ Made By Sanjiii [telegram username: @Urr_Sanjiii] +++
+# +++ Made By WhiteBEard [telegram username: @WhiteBeard_Sama] +++
