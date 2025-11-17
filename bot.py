@@ -1,4 +1,4 @@
-# +++ Made By Sanjiii [telegram username: @Urr_Sanjiii] +++
+# +++ Made By WhiteBEard [telegram username: @WhiteBeard_Sama] +++
 
 from aiohttp import web
 from plugins import web_server
