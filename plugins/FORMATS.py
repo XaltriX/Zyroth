@@ -40,7 +40,7 @@ HELP_TEXT = """<b>⁉️ Hᴇʏ...!! {mention} ~
 <b><i>◈ Sᴛɪʟʟ ʜᴀᴠᴇ ᴅᴏᴜʙᴛs, ᴄᴏɴᴛᴀᴄᴛ ʙᴇʟᴏᴡ ᴘᴇʀsᴏɴs/ɢʀᴏᴜᴘ ᴀs ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅ !</i></b>"""
 
 ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
-<blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/WhiteBeard_Sama>ᴍʏꜱᴛɪᴄ ɴᴇ𝐱ᴜꜱ</a>\n» ᴏᴜʀ ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/Team_Onigashima>𝐒ʜɪʀᴏʜɪɢᴇ 𝐍ᴇᴛᴡᴏʀᴋ</a>\n» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Shirohige_Animes>𝐀ɴɪᴍᴇ 𝐃ʀɪғᴛ</a>\n» ᴏɴɢᴏɪɴɢ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Ongoing_Anime_WDG_5>𝐎ɴɢᴏɪɴɢ 𝐃ʀɪғᴛ</a>\n» sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ : <a href=https://t.me/+7a-lbDl5nk8zNDU1>𝐃ʀɪғᴛ 𝐂ʜᴀᴛs</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/WhiteBeard_Sama>ᴍʏꜱᴛɪᴄ ɴᴇ𝐱ᴜꜱ</a></blockquote></b>"""
+<blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/NeonGhost>NҽσɳGԋσʂƚ</a>\n» ᴏᴜʀ ɴᴇᴛᴡᴏʀᴋ : <a href=https://t.me/NeonGhost_Network>𝓝𝓮𝓸𝓷𝓖𝓱𝓸𝓼𝓽_𝓝𝓮𝓽𝔀𝓸𝓻𝓴</a>\n» Premium MMS ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+8k7_0ABElRk2Zjc1>Premium MMS & Leaks</a>\n» ᴏɴɢᴏɪɴɢ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Linkz_Wallah>𝐋𝐢𝐧𝐤𝐳 𝐖𝐚𝐥𝐥𝐚𝐡</a>\n» sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ : <a href=https://t.me/+mqaVvX_UyzNmY2Jl>𝓝𝓮𝓸𝓷 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓖𝓻𝓸𝓾𝓹</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/NeonGhost>𝓝𝓮𝓸𝓷𝓖𝓱𝓸𝓼𝓽_𝓝𝓮𝓽𝔀𝓸𝓻𝓴</a></blockquote></b>"""
 
 SETTING_TXT = """<b>»  Cᴏɴғɪɢᴜʀᴀᴛɪᴏɴs</b>
 <blockquote expandable>» ᴛᴏᴛᴀʟ ғᴏʀᴄᴇ sᴜʙ ᴄʜᴀɴɴᴇʟ:  <b>{total_fsub}</b>
