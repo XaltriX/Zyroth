@@ -28,7 +28,7 @@ SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "-1003395468137")
 PORT = os.environ.get("PORT", "9006")
 
 #Database --⚠️ REQUIRED--
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://kojar29650:h8jvNvpyteVB8AzM@cluster0.uywzxza.mongodb.net/?retryWrites=true&w=majority&appName=Cluster")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://timed29716:jzE1SqRNktFycmVo@cluster0.kco6t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluster00")
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
@@ -39,7 +39,7 @@ PICS = (os.environ.get("PICS", "https://envs.sh/HL2.jpg")).split() #Required
 #set your Custom Caption here, Keep None for Disable Custom Caption
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
 
-LOG_FILE_NAME = "filesharingbot.txt"
+LOG_FILE_NAME = "fileshariingbot.txt"
 
 logging.basicConfig(
     level=logging.INFO,
